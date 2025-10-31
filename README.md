@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/seadclub/seadclub.online.js
+git clone https://github.com/seadclub/sead.club.js
 ```
 
 - Install all dependencies
